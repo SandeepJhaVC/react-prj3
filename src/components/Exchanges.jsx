@@ -74,8 +74,8 @@ const ExchangeCard = ({ name, img, rank, url }) => (
     >
       <Image
         src={img}
-        w={"10"}
-        h={"10"}
+        w={"15"}
+        h={"15"}
         objectFit={"contain"}
         alt={"Exchange"}
       />
